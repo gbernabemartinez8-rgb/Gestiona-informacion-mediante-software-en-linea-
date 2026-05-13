@@ -12,3 +12,5 @@ colaboracion global, el control de versiones seguro y la automatizacion de proce
 
 DESVENTAJAS :
 Dependencia de Git, Funciones avanzadas de pago, Privacidad limitada en repositorios pUblicos, Complejidad para principiantes, Dependencia de la nube, Integraciones externas, Competencia con otras plataformas
+
+Repository:
